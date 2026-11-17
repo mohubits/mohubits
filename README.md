@@ -1,7 +1,7 @@
 <h2 align="left">Hi! I'm Sharon 👋 I write the code, the cat does the code review.</h2>
 
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="Sharon, Software Engineering student at DIU: illustration of a girl coding on a laptop next to a sleeping cat" />
+  <img src="./profile-banner.svg" width="100%" alt="Sharon, Software Engineering student at DIU: illustration of a girl coding on a laptop next to a sleeping cat" />
 </div>
 
 <h3 align="center">Software Engineering Student at Daffodil International University · Building DIU ERP</h3>

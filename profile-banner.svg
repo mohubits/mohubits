@@ -106,10 +106,6 @@
   <rect x="892" y="268" width="136" height="84" rx="7" fill="#262C5A"/>
   <circle cx="960" cy="310" r="10" fill="#141834"/>
   <rect x="876" y="354" width="168" height="8" rx="4" fill="#151936"/>
-  <path d="M904 282c-10 18-14 36-10 54h14c-2-18 2-34 10-48z" fill="#D42A6C"/>
-  <path d="M1016 282c10 18 14 36 10 54h-14c2-18-2-34-10-48z" fill="#D42A6C"/>
-  <ellipse cx="895" cy="338" rx="10" ry="7" fill="#F5C6A0"/>
-  <ellipse cx="1025" cy="338" rx="10" ry="7" fill="#F5C6A0"/>
 
   <!-- sleeping cat -->
   <path d="M1166 362c26-8 30-36 8-44" fill="none" stroke="#E8781F" stroke-width="10" stroke-linecap="round">
