@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Sharon, web developer: illustration of a girl coding on a laptop next to a sleeping cat">
+  <defs>
+    <clipPath id="card"><rect width="1280" height="420" rx="24"/></clipPath>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="7" height="7" rx="1" fill="#7CC6CF"/></pattern>
+  </defs>
+
+  <!-- card -->
+  <g clip-path="url(#card)">
+    <rect width="1280" height="420" fill="#FFF9F2"/>
+    <circle cx="0" cy="420" r="150" fill="#FFE4EE"/>
+    <circle cx="1280" cy="0" r="130" fill="#E2F3F8"/>
+  </g>
+  <rect x="1" y="1" width="1278" height="418" rx="23" fill="none" stroke="#EADFD3" stroke-width="2"/>
+
+  <!-- text -->
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    <text x="82" y="128" font-family="'Cascadia Code',Consolas,'Courier New',monospace" font-size="18" fill="#2A9DA8" letter-spacing="3">HELLO, WORLD! I'M</text>
+    <text x="76" y="215" font-size="92" font-weight="800" fill="#1E2547" letter-spacing="2">SHARON</text>
+    <rect x="82" y="234" width="120" height="8" rx="4" fill="#E8337A"/>
+    <text x="82" y="284" font-size="24" font-weight="600" fill="#3B4366">Web Developer · Student at DIU</text>
+  </g>
+  <g font-family="'Cascadia Code',Consolas,'Courier New',monospace" font-size="15" text-anchor="middle" fill="#1F7F89">
+    <rect x="82" y="310" width="92" height="32" rx="16" fill="#E3F3F6" stroke="#8FD0D6"/><text x="128" y="331">Next.js</text>
+    <rect x="186" y="310" width="120" height="32" rx="16" fill="#E3F3F6" stroke="#8FD0D6"/><text x="246" y="331">TypeScript</text>
+    <rect x="318" y="310" width="78" height="32" rx="16" fill="#E3F3F6" stroke="#8FD0D6"/><text x="357" y="331">React</text>
+    <rect x="408" y="310" width="62" height="32" rx="16" fill="#E3F3F6" stroke="#8FD0D6"/><text x="439" y="331">SQL</text>
+  </g>
+  <text x="82" y="382" font-family="'Cascadia Code',Consolas,'Courier New',monospace" font-size="15" fill="#9095AC">// currently building: DIU ERP</text>
+
+  <!-- scene backdrop -->
+  <circle cx="960" cy="200" r="168" fill="#CDE8F4"/>
+  <rect x="1068" y="236" width="56" height="28" fill="url(#dots)" opacity=".8"/>
+  <ellipse cx="962" cy="378" rx="230" ry="15" fill="#ECE4DB"/>
+
+  <!-- chat bubbles -->
+  <path transform="translate(-24 16)" d="M1046 48h70a8 8 0 0 1 8 8v34a8 8 0 0 1-8 8h-10l10 14-24-14h-46a8 8 0 0 1-8-8V56a8 8 0 0 1 8-8z" fill="#C6EAEE"/>
+  <path d="M1046 48h70a8 8 0 0 1 8 8v34a8 8 0 0 1-8 8h-10l10 14-24-14h-46a8 8 0 0 1-8-8V56a8 8 0 0 1 8-8z" fill="#8FD0D6"/>
+  <text x="1081" y="80" font-family="'Cascadia Code',Consolas,'Courier New',monospace" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">&lt;/&gt;</text>
+
+  <!-- globe -->
+  <g fill="none" stroke="#fff" stroke-width="3">
+    <circle cx="1100" cy="178" r="20"/><ellipse cx="1100" cy="178" rx="8" ry="20"/>
+    <path d="M1080 178h40M1083 168h34M1083 188h34"/>
+  </g>
+
+  <!-- clock -->
+  <circle cx="808" cy="170" r="32" fill="#fff" stroke="#5BBFC6" stroke-width="8"/>
+  <path d="M808 170l12 8" stroke="#1E2547" stroke-width="4" stroke-linecap="round"/>
+  <path d="M808 170v-20" stroke="#1E2547" stroke-width="3" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" from="0 808 170" to="360 808 170" dur="20s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="808" cy="170" r="3.5" fill="#1E2547"/>
+
+  <!-- idea bulb -->
+  <path d="M880 112l14 16-22-8z" fill="#5BBFC6"/>
+  <circle cx="868" cy="96" r="26" fill="#fff" stroke="#5BBFC6" stroke-width="5"/>
+  <circle cx="868" cy="92" r="9" fill="#FFD45C" stroke="#1E2547" stroke-width="2.5"/>
+  <rect x="863.5" y="100" width="9" height="7" rx="1.5" fill="#1E2547"/>
+  <g stroke="#1E2547" stroke-width="2.5" stroke-linecap="round">
+    <path d="M868 62v-8M846 70l-6-6M890 70l6-6"/>
+    <animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- plant -->
+  <g fill="#6CC3C4">
+    <path d="M772 326C760 296 748 268 734 246c20 18 34 46 42 80z"/>
+    <path d="M772 326c-4-34-2-66 6-96 6 32 4 64-2 96z" fill="#4FA9AE"/>
+    <path d="M774 326c10-28 24-52 44-70-14 24-26 48-38 72z"/>
+    <path d="M770 326c-14-18-30-30-50-38 22 4 40 16 54 36z" fill="#4FA9AE"/>
+  </g>
+  <rect x="750" y="322" width="46" height="12" rx="3" fill="#C93A3A"/>
+  <path d="M754 334h38l-6 40h-26z" fill="#E04848"/>
+
+  <!-- mug -->
+  <g fill="none" stroke="#B5BFCC" stroke-width="3" stroke-linecap="round">
+    <path d="M818 330c-6-7 6-13 0-21M832 330c-6-7 6-13 0-21"/>
+    <animate attributeName="opacity" values="0;1;0" dur="2.6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 6;0 -6" dur="2.6s" repeatCount="indefinite"/>
+  </g>
+  <circle cx="846" cy="354" r="8" fill="none" stroke="#2E7FB8" stroke-width="5"/>
+  <rect x="810" y="336" width="34" height="38" rx="6" fill="#2E7FB8"/>
+  <path d="M827 362c-7-5-9-8-9-11a4 4 0 0 1 9-1 4 4 0 0 1 9 1c0 3-2 6-9 11z" fill="#fff"/>
+
+  <!-- girl: hair back, neck, sweater -->
+  <path d="M898 175c0-55 124-55 124 0 8 35 20 70 8 105-10 20-35 16-45 10h-50c-10 6-35 10-45-10-12-35 0-70 8-105z" fill="#1B1B2E"/>
+  <rect x="948" y="222" width="24" height="24" fill="#EDB48E"/>
+  <path d="M898 300c2-38 22-60 62-60s60 22 62 60l4 30H894z" fill="#E8337A"/>
+  <path d="M944 240l16 22 16-22z" fill="#fff"/>
+
+  <!-- head and face -->
+  <ellipse cx="960" cy="182" rx="44" ry="48" fill="#F5C6A0"/>
+  <path d="M914 180c-6-40 20-56 48-56 30 0 50 18 45 56-11-20-27-30-42-34-10 14-30 26-51 34z" fill="#1B1B2E"/>
+  <g fill="none" stroke="#1B1B2E" stroke-linecap="round">
+    <circle cx="942" cy="192" r="14" stroke-width="3.5" fill="#fff" fill-opacity=".25"/>
+    <circle cx="978" cy="192" r="14" stroke-width="3.5" fill="#fff" fill-opacity=".25"/>
+    <path d="M956 191q4-4 8 0" stroke-width="3"/>
+    <path d="M935 194q7-7 14 0M971 194q7-7 14 0" stroke-width="3"/>
+  </g>
+  <circle cx="928" cy="212" r="6" fill="#F29A9A" opacity=".6"/>
+  <circle cx="992" cy="212" r="6" fill="#F29A9A" opacity=".6"/>
+  <path d="M951 214q9 9 18 0" fill="none" stroke="#C0504D" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- legs, laptop, arms -->
+  <path d="M850 352c0-30 50-34 110-26 60-8 112-4 112 26 0 20-52 24-112 18-60 6-110 2-110-18z" fill="#2B2E4F"/>
+  <rect x="886" y="262" width="148" height="96" rx="10" fill="#1E2347"/>
+  <rect x="892" y="268" width="136" height="84" rx="7" fill="#262C5A"/>
+  <circle cx="960" cy="310" r="10" fill="#141834"/>
+  <rect x="876" y="354" width="168" height="8" rx="4" fill="#151936"/>
+  <path d="M904 282c-10 18-14 36-10 54h14c-2-18 2-34 10-48z" fill="#D42A6C"/>
+  <path d="M1016 282c10 18 14 36 10 54h-14c2-18-2-34-10-48z" fill="#D42A6C"/>
+  <ellipse cx="895" cy="338" rx="10" ry="7" fill="#F5C6A0"/>
+  <ellipse cx="1025" cy="338" rx="10" ry="7" fill="#F5C6A0"/>
+
+  <!-- sleeping cat -->
+  <path d="M1166 362c26-8 30-36 8-44" fill="none" stroke="#E8781F" stroke-width="10" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" values="0 1166 362;-12 1166 362;0 1166 362" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <ellipse cx="1128" cy="356" rx="46" ry="20" fill="#F08A2C"/>
+  <path d="M1124 338q5 8 0 17M1140 338q5 8 0 17M1156 342q4 7 0 14" fill="none" stroke="#D9711C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1074 340l2-22 14 12zM1092 330l12-14 2 22z" fill="#F08A2C"/>
+  <path d="M1078 334l1-9 6 5zM1096 329l6-7 1 9z" fill="#F7B47C"/>
+  <circle cx="1090" cy="348" r="19" fill="#F08A2C"/>
+  <path d="M1078 350q5 4 10 0" fill="none" stroke="#7A3A10" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="1075" cy="356" r="2" fill="#C0504D"/>
+  <ellipse cx="1102" cy="370" rx="13" ry="6" fill="#F6A04A"/>
+  <g font-family="'Segoe UI',Arial,sans-serif" font-weight="700" fill="#5BBFC6">
+    <text x="1098" y="316" font-size="16">z</text>
+    <text x="1110" y="298" font-size="21">Z</text>
+    <animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/>
+  </g>
+</svg>
