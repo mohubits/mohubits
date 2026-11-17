@@ -12,7 +12,7 @@
 
 - 👩‍💻 All of my projects are available at [github.com/mohubits?tab=repositories](https://github.com/mohubits?tab=repositories)
 
-- 💬 Ask me about **frontend development, React and UI design**
+
 
 - 📫 How to reach me **mohuamonjurisharon@gmail.com**
 
