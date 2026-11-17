@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on [DIU ERP, a university ERP system](https://github.com/adilsay3d22/diuerp01)
 
-- 🌱 I'm currently learning **Next.js, TypeScript and database design**
+  
 
 - 👩‍💻 All of my projects are available at [github.com/mohubits?tab=repositories](https://github.com/mohubits?tab=repositories)
 
